@@ -1,0 +1,210 @@
+run_id,index,color,shape,attempts,success,duration_s,yaw_error_deg,note
+20261110-214538-3d1e,1,yellow,triangle,2,0,13.59,-46.3,dxy=216mm dz=27mm
+20261110-214740-ee50,1,yellow,triangle,2,0,13.54,-50.6,dxy=214mm dz=27mm
+20261110-214740-ee50,2,red,hexagon,2,0,13.63,-20.1,dxy=26mm dz=24mm
+20261110-215259-82b4,1,yellow,triangle,1,1,5.14,-39.4,
+20261110-215259-82b4,2,red,hexagon,1,1,5.14,4.1,
+20261110-215639-eb75,1,yellow,triangle,1,1,5.14,-40.7,
+20261110-215639-eb75,2,blue,square,1,1,5.14,12.8,
+20261110-220240-7a1d,1,yellow,triangle,1,0,0.0,0.0,"hover pose (0.218,-0.172,0.086) unreachable: target out of reach (r=0.268, z=0.086)"
+20261110-220240-7a1d,2,blue,square,1,1,5.14,4.8,
+20261110-220240-7a1d,3,red,hexagon,1,1,5.15,-16.1,
+20261110-220240-7a1d,4,green,circle,1,1,5.13,0.0,
+20261110-220644-3ce1,1,yellow,triangle,1,1,5.14,-41.8,
+20261110-220644-3ce1,2,blue,square,1,1,5.14,34.2,
+20261110-220644-3ce1,3,red,hexagon,1,0,0.0,0.0,"pre-grasp pose (0.223,0.132,0.113) unreachable: target out of reach (r=0.249, z=0.113)"
+20261110-220644-3ce1,4,green,circle,1,1,5.14,0.0,
+20261110-225143-ca9d,1,yellow,triangle,1,1,5.14,40.5,
+20261110-225143-ca9d,2,blue,square,1,1,5.14,-32.1,
+20261110-225143-ca9d,3,orange,hexagon,1,1,5.14,6.8,
+20261110-225143-ca9d,4,green,circle,1,1,5.13,0.0,
+20261110-225237-4a31,1,yellow,triangle,2,0,36.39,-56.0,dxy=166mm dz=17mm
+20261110-225237-4a31,2,blue,square,1,0,0.0,0.0,"pre-grasp pose (0.178,-0.191,0.105) unreachable: target out of reach (r=0.253, z=0.105)"
+20261110-225345-0e69,1,yellow,triangle,2,0,36.38,57.5,dxy=150mm dz=20mm
+20261110-225345-0e69,2,blue,square,1,0,0.0,0.0,"pre-grasp pose (0.178,-0.192,0.105) unreachable: target out of reach (r=0.253, z=0.105)"
+20261110-225345-0e69,3,orange,hexagon,1,0,0.0,0.0,"pre-grasp pose (0.102,-0.112,0.192) unreachable: target out of reach (r=0.144, z=0.192)"
+20261110-225345-0e69,4,green,circle,2,0,19.8,0.0,"pre-grasp pose (0.305,0.037,0.073) unreachable: target out of reach (r=0.295, z=0.073)"
+20261111-165144-3ce0,1,blue,square,1,1,6.96,10.8,
+20261111-165358-d788,1,blue,square,1,1,6.94,-6.0,
+20261111-165630-4e03,1,blue,square,2,0,37.14,-5.9,aborted (e-stop)
+20261111-171837-7fb1,1,blue,square,1,0,0.0,0.0,"transit: no collision-free path at z=0.125 (pegs too close together, or raise the robot — see task.yaml)"
+20261111-172357-46c8,1,blue,square,1,0,0.0,0.0,cur -> high: finger_L hits placed blue
+20261111-172430-3a68,1,blue,square,1,0,0.0,0.0,"no grasp height is both reachable and collision-free for peg at r=0.123 / socket at r=0.228 — move it, space the pegs out, or raise the robot"
+20261111-174025-f763,1,blue,square,1,0,0.0,0.0,"no grasp height is both reachable and collision-free for peg at r=0.127 / socket at r=0.225 — move it, space the pegs out, or raise the robot"
+20261111-175205-40a6,1,blue,square,1,0,0.0,0.0,"no grasp height is both reachable and collision-free for peg at r=0.124 / socket at r=0.224 — move it, space the pegs out, or raise the robot"
+20261111-175251-678d,1,blue,square,1,0,0.0,0.0,"no grasp height is both reachable and collision-free for peg at r=0.120 / socket at r=0.224 — move it, space the pegs out, or raise the robot"
+20261111-181049-78e9,1,blue,square,1,0,0.0,0.0,"to hover: held peg hits table at (0.203,-0.003,0.073)"
+20261111-181302-227b,1,blue,square,1,0,0.0,0.0,"to hover: held peg hits table at (0.214,0.012,0.070)"
+20261111-182137-8a19,1,blue,square,1,0,0.0,0.0,no grasp height is both reachable and collision-free for peg at r=0.113 / socket at r=0.230 — d_max=50mm d_board=53mm | d=24mm over=False: reach fail @ z_carry_sock | d=24mm over=True: reach fail @ z_carry_sock | d=26mm over=False: reach fail @ z_carry_sock | d=26mm over=True: reach fail @ z_carry_sock
+20261111-184046-8516,1,blue,square,1,1,5.74,-28.0,
+20261111-184559-ed58,1,blue,square,1,1,5.73,-27.2,
+20261111-191136-941f,1,blue,square,1,0,0.0,0.0,no grasp height is both reachable and collision-free for peg at r=0.135 / socket at r=0.228 — d_max=32mm d_board=53mm | d=25mm over=False: reach fail @ z_carry_sock | d=25mm over=True: reach fail @ z_carry_sock | d=27mm over=False: reach fail @ z_carry_sock | d=27mm over=True: reach fail @ z_carry_sock
+20261111-191221-a289,1,blue,square,1,0,0.0,0.0,no grasp height is both reachable and collision-free for peg at r=0.134 / socket at r=0.228 — d_max=32mm d_board=53mm | d=25mm over=False: reach fail @ z_carry_sock | d=25mm over=True: reach fail @ z_carry_sock | d=27mm over=False: reach fail @ z_carry_sock | d=27mm over=True: reach fail @ z_carry_sock
+20261111-191350-2bac,1,blue,square,1,0,0.0,0.0,no grasp height is both reachable and collision-free for peg at r=0.133 / socket at r=0.232 — d_max=32mm d_board=53mm | d=25mm over=False: reach fail @ z_carry_sock | d=25mm over=True: reach fail @ z_carry_sock | d=27mm over=False: reach fail @ z_carry_sock | d=27mm over=True: reach fail @ z_carry_sock
+20261111-192106-81f9,1,blue,square,1,0,0.0,0.0,no grasp height is both reachable and collision-free for peg at r=0.133 / socket at r=0.196 — d_max=40mm d_board=53mm | d=25mm over=False: collision @ z=0.077: held peg hits board | d=25mm over=True: collision @ z=0.077: held peg hits board | d=27mm over=False: collision @ z=0.075: held peg hits board | d=27mm over=True: collision @ z=0.075: held peg hits board
+20261111-193013-4e28,1,green,circle,1,0,0.0,0.0,no grasp height is both reachable and collision-free for peg at r=0.067 / socket at r=0.193 — d_max=40mm d_board=53mm | d=25mm over=False: collision @ z=0.020: finger_L hits table | d=25mm over=True: collision @ z=0.020: finger_L hits table | d=27mm over=False: collision @ z=0.018: finger_L hits table | d=27mm over=True: collision @ z=0.018: finger_L hits table
+20261111-193013-4e28,1,blue,square,1,1,5.84,-28.0,
+20261111-193135-5748,1,green,circle,1,0,0.0,0.0,no grasp height is both reachable and collision-free for peg at r=0.110 / socket at r=0.194 — d_max=40mm d_board=53mm | d=25mm over=False: collision @ z=0.020: finger_L hits table | d=25mm over=True: collision @ z=0.020: finger_L hits table | d=27mm over=False: collision @ z=0.018: finger_L hits table | d=27mm over=True: collision @ z=0.018: finger_L hits table
+20261111-193236-8ce5,1,green,circle,1,1,5.53,0.0,
+20261111-193309-3110,1,green,circle,1,1,5.53,0.0,
+20261111-193348-74bb,1,green,circle,2,0,18.44,0.0,no grasp height is both reachable and collision-free for peg at r=0.203 / socket at r=0.186 — d_max=40mm d_board=53mm | d=25mm over=False: PASSED (unexpected) | d=25mm over=True: PASSED (unexpected) | d=27mm over=False: collision @ z=0.022: finger_L hits table | d=27mm over=True: collision @ z=0.022: finger_L hits table
+20261111-193348-74bb,1,green,circle,2,0,34.39,0.0,dxy=41mm dz=49mm
+20261111-194355-8fcd,1,green,circle,1,0,0.0,0.0,no grasp height is both reachable and collision-free for peg at r=0.093 / socket at r=0.228 — d_max=28mm d_board=53mm | d=25mm over=False: reach fail @ z_carry_sock | d=25mm over=True: reach fail @ z_carry_sock | d=27mm over=False: reach fail @ z_carry_sock | d=27mm over=True: reach fail @ z_carry_sock
+20261111-194448-495d,1,green,circle,1,0,0.0,0.0,no grasp height is both reachable and collision-free for peg at r=0.094 / socket at r=0.211 — d_max=28mm d_board=53mm | d=25mm over=False: reach fail @ z_carry_sock | d=25mm over=True: collision @ z=0.020: finger_L hits table | d=27mm over=False: reach fail @ z_carry_sock | d=27mm over=True: collision @ z=0.018: finger_L hits table
+20261111-194512-adda,1,green,circle,1,1,5.54,0.0,
+20261111-194544-d1f9,1,green,circle,2,0,36.43,0.0,dxy=110mm dz=41mm
+20261111-194544-d1f9,1,green,circle,2,0,35.82,0.0,dxy=82mm dz=41mm
+20261111-194800-ceed,1,blue,square,1,0,0.0,0.0,no grasp height is both reachable and collision-free for peg at r=0.132 / socket at r=0.221 — d_max=28mm d_board=53mm | d=25mm over=False: reach fail @ z_carry_sock | d=25mm over=True: reach fail @ z_carry_sock | d=27mm over=False: reach fail @ z_carry_sock | d=27mm over=True: reach fail @ z_carry_sock
+20261111-194800-ceed,1,blue,square,1,0,0.0,0.0,no grasp height is both reachable and collision-free for peg at r=0.151 / socket at r=0.221 — d_max=28mm d_board=53mm | d=25mm over=False: reach fail @ z_carry_sock | d=25mm over=True: reach fail @ z_carry_sock | d=27mm over=False: reach fail @ z_carry_sock | d=27mm over=True: reach fail @ z_carry_sock
+20261111-194832-d8cc,1,blue,square,1,0,0.0,0.0,no grasp height is both reachable and collision-free for peg at r=0.151 / socket at r=0.221 — d_max=28mm d_board=53mm | d=25mm over=False: reach fail @ z_carry_sock | d=25mm over=True: reach fail @ z_carry_sock | d=27mm over=False: reach fail @ z_carry_sock | d=27mm over=True: reach fail @ z_carry_sock
+20261111-194911-a651,1,blue,square,1,0,0.0,0.0,no grasp height is both reachable and collision-free for peg at r=0.118 / socket at r=0.221 — d_max=28mm d_board=53mm | d=25mm over=False: reach fail @ z_carry_sock | d=25mm over=True: reach fail @ z_carry_sock | d=27mm over=False: reach fail @ z_carry_sock | d=27mm over=True: reach fail @ z_carry_sock
+20261111-194950-e70e,1,blue,square,1,0,0.0,0.0,no grasp height is both reachable and collision-free for peg at r=0.119 / socket at r=0.221 — d_max=28mm d_board=53mm | d=25mm over=False: reach fail @ z_carry_sock | d=25mm over=True: reach fail @ z_carry_sock | d=27mm over=False: reach fail @ z_carry_sock | d=27mm over=True: reach fail @ z_carry_sock
+20261111-202440-f9e6,1,green,circle,1,1,5.53,0.0,
+20261111-203114-dca4,1,green,circle,1,1,5.53,0.0,
+20261111-203135-4dd4,1,green,circle,2,0,18.59,0.0,no grasp height is both reachable and collision-free for peg at r=0.213 / socket at r=0.200 — d_max=20mm d_board=53mm | d=4mm over=False: reach fail @ z_grasp | d=4mm over=True: reach fail @ z_grasp | d=6mm over=False: reach fail @ z_grasp | d=6mm over=True: reach fail @ z_grasp
+20261111-204035-0687,1,green,circle,1,0,0.0,0.0,no grasp height is both reachable and collision-free for peg at r=0.103 / socket at r=0.207 — d_max=20mm d_board=53mm | d=4mm over=False: reach fail @ z_carry_sock | d=4mm over=True: reach fail @ z_carry_sock | d=6mm over=False: reach fail @ z_carry_sock | d=6mm over=True: reach fail @ z_carry_sock
+20261111-204121-a939,1,green,circle,1,1,5.53,0.0,
+20261111-204148-9b33,1,green,circle,2,0,18.03,0.0,no grasp height is both reachable and collision-free for peg at r=0.207 / socket at r=0.193 — d_max=20mm d_board=53mm | d=4mm over=False: reach fail @ z_grasp | d=4mm over=True: reach fail @ z_grasp | d=6mm over=False: reach fail @ z_grasp | d=6mm over=True: reach fail @ z_grasp
+20261111-204148-9b33,1,green,circle,1,0,6.75,0.0,aborted (e-stop)
+20261111-204148-9b33,1,orange,hexagon,1,0,0.0,0.0,no grasp height is both reachable and collision-free for peg at r=0.265 / socket at r=0.176 — d_max=20mm d_board=53mm | d=4mm over=False: reach fail @ z_grasp | d=4mm over=True: reach fail @ z_grasp | d=6mm over=False: reach fail @ z_grasp | d=6mm over=True: reach fail @ z_grasp
+20261111-204337-9e47,1,green,circle,1,1,5.53,0.0,
+20261111-204805-1098,1,green,circle,1,1,5.53,0.0,
+20261111-204825-cc9b,1,green,circle,2,0,18.8,0.0,no grasp height is both reachable and collision-free for peg at r=0.210 / socket at r=0.199 — d_max=20mm d_board=53mm | d=4mm over=False: reach fail @ z_grasp | d=4mm over=True: reach fail @ z_grasp | d=6mm over=False: reach fail @ z_grasp | d=6mm over=True: reach fail @ z_grasp
+20261112-013552-866a,1,green,circle,1,1,5.54,0.0,
+20261112-013629-1540,1,green,circle,2,0,19.22,0.0,no grasp height is both reachable and collision-free for peg at r=0.223 / socket at r=0.203 — d_max=20mm d_board=53mm | d=4mm over=False: reach fail @ z_grasp | d=4mm over=True: reach fail @ z_grasp | d=6mm over=False: reach fail @ z_grasp | d=6mm over=True: reach fail @ z_grasp
+20261112-013629-1540,1,,,2,0,17.63,0.0,peg lost
+20261112-015518-247c,1,green,circle,1,1,5.54,0.0,
+20261112-015544-8862,1,green,circle,2,0,17.44,0.0,no grasp height is both reachable and collision-free for peg at r=0.189 / socket at r=0.177 — d_max=20mm d_board=53mm | d=4mm over=False: reach fail @ z_carry_peg | d=4mm over=True: PASSED (unexpected) | d=6mm over=False: reach fail @ z_carry_peg | d=6mm over=True: PASSED (unexpected)
+20261112-015656-7a9b,1,green,circle,2,0,17.97,0.0,no grasp height is both reachable and collision-free for peg at r=0.193 / socket at r=0.177 — d_max=20mm d_board=53mm | d=4mm over=False: reach fail @ z_carry_peg | d=4mm over=True: PASSED (unexpected) | d=6mm over=False: reach fail @ z_carry_peg | d=6mm over=True: PASSED (unexpected)
+20261112-020220-2348,1,green,circle,2,0,17.2,0.0,no grasp height is both reachable and collision-free for peg at r=0.187 / socket at r=0.177 — d_max=20mm d_board=67mm | d=4mm over=False: reach fail @ z_carry_peg | d=4mm over=True: PASSED (unexpected) | d=6mm over=False: reach fail @ z_carry_peg | d=6mm over=True: PASSED (unexpected)
+20261112-021030-2f8a,1,green,circle,1,1,5.4,0.0,
+20261112-021223-c030,1,green,circle,1,0,0.0,0.0,no grasp height is both reachable and collision-free for peg at r=0.140 / socket at r=0.193 — d_max=20mm d_board=73mm | d=4mm over=False: reach fail @ z_carry_sock | d=4mm over=True: reach fail @ z_carry_sock | d=6mm over=False: reach fail @ z_carry_sock | d=6mm over=True: reach fail @ z_hover
+20261112-021256-2824,1,green,circle,1,0,0.0,0.0,no grasp height is both reachable and collision-free for peg at r=0.143 / socket at r=0.193 — d_max=20mm d_board=73mm | d=4mm over=False: reach fail @ z_carry_sock | d=4mm over=True: reach fail @ z_carry_sock | d=6mm over=False: reach fail @ z_carry_sock | d=6mm over=True: reach fail @ z_hover
+20261112-021256-2824,1,orange,hexagon,1,0,0.0,0.0,no grasp height is both reachable and collision-free for peg at r=0.314 / socket at r=0.176 — d_max=20mm d_board=73mm | d=4mm over=False: reach fail @ z_grasp | d=4mm over=True: reach fail @ z_grasp | d=6mm over=False: reach fail @ z_grasp | d=6mm over=True: reach fail @ z_grasp
+20261112-021256-2824,1,orange,hexagon,1,0,0.0,0.0,no grasp height is both reachable and collision-free for peg at r=0.326 / socket at r=0.176 — d_max=20mm d_board=73mm | d=4mm over=False: reach fail @ z_grasp | d=4mm over=True: reach fail @ z_grasp | d=6mm over=False: reach fail @ z_grasp | d=6mm over=True: reach fail @ z_grasp
+20261112-021351-a81a,1,green,circle,1,1,5.4,0.0,
+20261112-022910-f716,1,orange,hexagon,1,0,0.0,0.0,no grasp height is both reachable and collision-free for peg at r=0.376 / socket at r=0.174 — d_max=20mm d_board=73mm | d=4mm over=False: reach fail @ z_grasp | d=4mm over=True: reach fail @ z_grasp | d=6mm over=False: reach fail @ z_grasp | d=6mm over=True: reach fail @ z_grasp
+20261112-022910-f716,1,orange,hexagon,1,0,0.0,0.0,no grasp height is both reachable and collision-free for peg at r=0.362 / socket at r=0.174 — d_max=20mm d_board=73mm | d=4mm over=False: reach fail @ z_grasp | d=4mm over=True: reach fail @ z_grasp | d=6mm over=False: reach fail @ z_grasp | d=6mm over=True: reach fail @ z_grasp
+20261112-022910-f716,1,orange,hexagon,1,0,0.0,0.0,no grasp height is both reachable and collision-free for peg at r=0.436 / socket at r=0.174 — d_max=20mm d_board=73mm | d=4mm over=False: reach fail @ z_grasp | d=4mm over=True: reach fail @ z_grasp | d=6mm over=False: reach fail @ z_grasp | d=6mm over=True: reach fail @ z_grasp
+20261112-153518-6cf3,1,blue,square,1,0,0.0,0.0,no grasp height is both reachable and collision-free for peg at r=0.248 / socket at r=0.193 — d_max=20mm d_board=73mm | d=4mm over=False: reach fail @ z_grasp | d=4mm over=True: reach fail @ z_grasp | d=6mm over=False: reach fail @ z_grasp | d=6mm over=True: reach fail @ z_grasp
+20261112-153518-6cf3,1,orange,hexagon,1,0,0.0,0.0,no grasp height is both reachable and collision-free for peg at r=0.244 / socket at r=0.200 — d_max=20mm d_board=73mm | d=4mm over=False: reach fail @ z_grasp | d=4mm over=True: reach fail @ z_grasp | d=6mm over=False: reach fail @ z_grasp | d=6mm over=True: reach fail @ z_grasp
+20261112-153518-6cf3,1,blue,square,1,0,0.0,0.0,no grasp height is both reachable and collision-free for peg at r=0.239 / socket at r=0.193 — d_max=20mm d_board=73mm | d=4mm over=False: reach fail @ z_grasp | d=4mm over=True: reach fail @ z_grasp | d=6mm over=False: reach fail @ z_grasp | d=6mm over=True: reach fail @ z_grasp
+20261112-153518-6cf3,1,green,circle,1,0,0.0,0.0,no grasp height is both reachable and collision-free for peg at r=0.099 / socket at r=0.201 — d_max=20mm d_board=73mm | d=4mm over=False: reach fail @ z_carry_sock | d=4mm over=True: reach fail @ z_carry_sock | d=6mm over=False: reach fail @ z_carry_sock | d=6mm over=True: reach fail @ z_carry_sock
+20261112-153518-6cf3,1,green,circle,1,0,0.0,0.0,no grasp height is both reachable and collision-free for peg at r=0.107 / socket at r=0.201 — d_max=20mm d_board=73mm | d=4mm over=False: reach fail @ z_carry_sock | d=4mm over=True: reach fail @ z_carry_sock | d=6mm over=False: reach fail @ z_carry_sock | d=6mm over=True: reach fail @ z_carry_sock
+20261112-153518-6cf3,1,blue,square,1,0,0.0,0.0,no grasp height is both reachable and collision-free for peg at r=0.097 / socket at r=0.193 — d_max=20mm d_board=73mm | d=4mm over=False: reach fail @ z_carry_sock | d=4mm over=True: reach fail @ z_carry_sock | d=6mm over=False: reach fail @ z_carry_sock | d=6mm over=True: reach fail @ z_hover
+20261112-153618-65a2,1,orange,hexagon,1,0,0.0,0.0,no grasp height is both reachable and collision-free for peg at r=0.245 / socket at r=0.183 — d_max=20mm d_board=73mm | d=4mm over=False: reach fail @ z_grasp | d=4mm over=True: reach fail @ z_grasp | d=6mm over=False: reach fail @ z_grasp | d=6mm over=True: reach fail @ z_grasp
+20261112-153618-65a2,1,green,circle,1,0,0.0,0.0,no grasp height is both reachable and collision-free for peg at r=0.106 / socket at r=0.201 — d_max=20mm d_board=73mm | d=4mm over=False: reach fail @ z_carry_sock | d=4mm over=True: reach fail @ z_carry_sock | d=6mm over=False: reach fail @ z_carry_sock | d=6mm over=True: reach fail @ z_carry_sock
+20261112-153618-65a2,1,blue,square,1,0,0.0,0.0,no grasp height is both reachable and collision-free for peg at r=0.240 / socket at r=0.193 — d_max=20mm d_board=73mm | d=4mm over=False: reach fail @ z_grasp | d=4mm over=True: reach fail @ z_grasp | d=6mm over=False: reach fail @ z_grasp | d=6mm over=True: reach fail @ z_grasp
+20261112-153701-4559,1,green,circle,1,1,5.41,0.0,
+20261112-153701-4559,2,blue,square,1,0,0.0,0.0,no grasp height is both reachable and collision-free for peg at r=0.211 / socket at r=0.161 — d_max=20mm d_board=73mm | d=4mm over=False: reach fail @ z_grasp | d=4mm over=True: reach fail @ z_grasp | d=6mm over=False: reach fail @ z_grasp | d=6mm over=True: reach fail @ z_grasp
+20261112-153701-4559,2,blue,square,1,0,0.0,0.0,no grasp height is both reachable and collision-free for peg at r=0.197 / socket at r=0.161 — d_max=20mm d_board=73mm | d=4mm over=False: reach fail @ z_carry_peg | d=4mm over=True: reach fail @ z_carry_peg | d=6mm over=False: reach fail @ z_carry_peg | d=6mm over=True: reach fail @ z_carry_peg
+20261112-153809-0284,1,green,circle,2,0,15.76,0.0,no grasp height is both reachable and collision-free for peg at r=0.183 / socket at r=0.171 — d_max=20mm d_board=73mm | d=4mm over=False: reach fail @ z_carry_peg | d=4mm over=True: PASSED (unexpected) | d=6mm over=False: reach fail @ z_carry_peg | d=6mm over=True: PASSED (unexpected)
+20261112-153809-0284,1,blue,square,1,1,18.6,-22.6,dxy=8mm dz=-9mm
+20261112-153809-0284,2,orange,hexagon,2,0,17.01,5.2,no grasp height is both reachable and collision-free for peg at r=0.267 / socket at r=0.148 — d_max=20mm d_board=73mm | d=4mm over=False: reach fail @ z_grasp | d=4mm over=True: reach fail @ z_grasp | d=6mm over=False: reach fail @ z_grasp | d=6mm over=True: reach fail @ z_grasp
+20261112-153809-0284,2,orange,hexagon,1,0,0.0,0.0,"transit: no collision-free path at z=0.113 (pegs too close together, or raise the robot — see task.yaml)"
+20261112-154103-2483,1,orange,hexagon,1,1,16.39,-4.1,dxy=13mm dz=13mm
+20261112-154149-1916,1,orange,hexagon,1,1,15.79,-0.2,dxy=5mm dz=2mm
+20261112-154437-d335,1,orange,hexagon,1,1,5.7,1.0,
+20261112-155250-07e5,1,orange,hexagon,1,1,5.4,1.0,
+20261112-155849-9ebd,1,orange,hexagon,1,1,5.7,4.8,
+20261112-160017-eb8f,1,orange,hexagon,1,1,5.7,-2.7,
+20261112-164708-60ec,1,green,circle,1,1,5.4,0.0,
+20261112-164846-3587,1,orange,hexagon,1,1,5.4,0.5,
+20261112-164954-5a41,1,orange,hexagon,1,0,0.0,0.0,no grasp height is both reachable and collision-free for peg at r=0.195 / socket at r=0.153 — d_max=20mm d_board=73mm | d=4mm over=False: reach fail @ z_carry_peg | d=4mm over=True: reach fail @ z_carry_peg | d=6mm over=False: reach fail @ z_carry_peg | d=6mm over=True: reach fail @ z_carry_peg
+20261112-164954-5a41,1,blue,square,1,1,5.72,-22.4,
+20261112-165249-8daf,1,yellow,triangle,1,0,0.0,0.0,no grasp height is both reachable and collision-free for peg at r=0.093 / socket at r=0.206 — d_max=20mm d_board=73mm | d=4mm over=False: reach fail @ z_carry_sock | d=4mm over=True: reach fail @ z_carry_sock | d=6mm over=False: reach fail @ z_carry_sock | d=6mm over=True: reach fail @ z_carry_sock
+20261112-165249-8daf,1,yellow,triangle,1,0,0.0,0.0,no grasp height is both reachable and collision-free for peg at r=0.106 / socket at r=0.206 — d_max=20mm d_board=73mm | d=4mm over=False: reach fail @ z_carry_sock | d=4mm over=True: reach fail @ z_carry_sock | d=6mm over=False: reach fail @ z_carry_sock | d=6mm over=True: reach fail @ z_carry_sock
+20261112-165249-8daf,1,yellow,triangle,1,0,0.0,0.0,no grasp height is both reachable and collision-free for peg at r=0.118 / socket at r=0.206 — d_max=20mm d_board=73mm | d=4mm over=False: reach fail @ z_carry_sock | d=4mm over=True: reach fail @ z_carry_sock | d=6mm over=False: reach fail @ z_carry_sock | d=6mm over=True: reach fail @ z_carry_sock
+20261112-171526-8701,1,green,circle,1,1,5.7,0.0,
+20261112-172332-72c8,1,green,circle,1,1,14.99,0.0,dxy=14mm dz=18mm
+20261112-173343-2fbc,1,green,circle,1,1,19.0,0.0,dxy=15mm dz=19mm
+20261112-173343-2fbc,2,orange,hexagon,1,0,0.0,0.0,no grasp height is both reachable and collision-free for peg at r=0.350 / socket at r=0.160 — d_max=20mm d_board=73mm | d=4mm over=False: reach fail @ z_grasp | d=4mm over=True: reach fail @ z_grasp | d=6mm over=False: reach fail @ z_grasp | d=6mm over=True: reach fail @ z_grasp
+20261112-173343-2fbc,2,blue,square,1,0,0.0,0.0,no grasp height is both reachable and collision-free for peg at r=0.431 / socket at r=0.175 — d_max=20mm d_board=73mm | d=4mm over=False: reach fail @ z_grasp | d=4mm over=True: reach fail @ z_grasp | d=6mm over=False: reach fail @ z_grasp | d=6mm over=True: reach fail @ z_grasp
+20261112-173343-2fbc,2,yellow,triangle,1,0,0.0,0.0,no grasp height is both reachable and collision-free for peg at r=0.420 / socket at r=0.211 — d_max=20mm d_board=73mm | d=4mm over=False: reach fail @ z_grasp | d=4mm over=True: reach fail @ z_grasp | d=6mm over=False: reach fail @ z_grasp | d=6mm over=True: reach fail @ z_grasp
+20261112-173343-2fbc,2,orange,hexagon,1,0,0.0,0.0,no grasp height is both reachable and collision-free for peg at r=0.342 / socket at r=0.160 — d_max=20mm d_board=73mm | d=4mm over=False: reach fail @ z_grasp | d=4mm over=True: reach fail @ z_grasp | d=6mm over=False: reach fail @ z_grasp | d=6mm over=True: reach fail @ z_grasp
+20261112-173343-2fbc,2,orange,hexagon,1,0,0.0,0.0,no grasp height is both reachable and collision-free for peg at r=0.342 / socket at r=0.160 — d_max=20mm d_board=73mm | d=4mm over=False: reach fail @ z_grasp | d=4mm over=True: reach fail @ z_grasp | d=6mm over=False: reach fail @ z_grasp | d=6mm over=True: reach fail @ z_grasp
+20261112-173343-2fbc,2,blue,square,1,0,0.0,0.0,no grasp height is both reachable and collision-free for peg at r=0.436 / socket at r=0.175 — d_max=20mm d_board=73mm | d=4mm over=False: reach fail @ z_grasp | d=4mm over=True: reach fail @ z_grasp | d=6mm over=False: reach fail @ z_grasp | d=6mm over=True: reach fail @ z_grasp
+20261112-173537-5d13,1,green,circle,2,0,20.62,0.0,no grasp height is both reachable and collision-free for peg at r=0.190 / socket at r=0.177 — d_max=20mm d_board=73mm | d=4mm over=False: reach fail @ z_carry_peg | d=4mm over=True: PASSED (unexpected) | d=6mm over=False: reach fail @ z_carry_peg | d=6mm over=True: PASSED (unexpected)
+20261112-173723-6ede,1,green,circle,2,0,20.18,0.0,no grasp height is both reachable and collision-free for peg at r=0.191 / socket at r=0.175 — d_max=20mm d_board=73mm | d=4mm over=False: reach fail @ z_carry_peg | d=4mm over=True: PASSED (unexpected) | d=6mm over=False: reach fail @ z_carry_peg | d=6mm over=True: PASSED (unexpected)
+20261112-175317-0218,1,,,2,0,16.38,3.1,peg lost
+20261112-175643-500e,1,orange,hexagon,1,1,16.62,3.8,dxy=15mm dz=8mm
+20261112-181237-e205,1,yellow,triangle,1,0,0.0,0.0,no grasp height is both reachable and collision-free for peg at r=0.205 / socket at r=0.201 — d_max=20mm d_board=73mm | d=4mm over=False: reach fail @ z_carry_peg | d=4mm over=True: reach fail @ z_carry_peg | d=6mm over=False: reach fail @ z_carry_peg | d=6mm over=True: reach fail @ z_carry_peg
+20261112-182444-052f,1,yellow,triangle,1,0,0.0,0.0,no grasp height is both reachable and collision-free for peg at r=0.204 / socket at r=0.201 — d_max=20mm d_board=73mm | d=4mm over=False: reach fail @ z_carry_peg | d=4mm over=True: reach fail @ z_carry_peg | d=6mm over=False: reach fail @ z_carry_peg | d=6mm over=True: reach fail @ z_carry_peg
+20261112-182551-f14a,1,yellow,triangle,1,0,0.0,0.0,no grasp height is both reachable and collision-free for peg at r=0.204 / socket at r=0.201 — d_max=20mm d_board=73mm | d=4mm over=False: reach fail @ z_carry_peg | d=4mm over=True: reach fail @ z_carry_peg | d=6mm over=False: reach fail @ z_carry_peg | d=6mm over=True: reach fail @ z_carry_peg
+20261112-182551-f14a,1,blue,square,1,1,19.03,-16.6,dxy=11mm dz=-3mm
+20261112-182841-1b31,1,yellow,triangle,1,0,0.0,0.0,no grasp height is both reachable and collision-free for peg at r=0.359 / socket at r=0.201 — d_max=20mm d_board=73mm | d=4mm over=False: reach fail @ z_grasp | d=4mm over=True: reach fail @ z_grasp | d=6mm over=False: reach fail @ z_grasp | d=6mm over=True: reach fail @ z_grasp
+20261112-182841-1b31,1,yellow,triangle,1,0,0.0,0.0,no grasp height is both reachable and collision-free for peg at r=0.204 / socket at r=0.201 — d_max=20mm d_board=73mm | d=4mm over=False: reach fail @ z_carry_peg | d=4mm over=True: reach fail @ z_carry_peg | d=6mm over=False: reach fail @ z_carry_peg | d=6mm over=True: reach fail @ z_carry_peg
+20261112-182959-87f8,1,yellow,triangle,1,0,0.0,0.0,no grasp height is both reachable and collision-free for peg at r=0.204 / socket at r=0.200 — d_max=20mm d_board=73mm | d=4mm over=False: reach fail @ z_carry_peg | d=4mm over=True: reach fail @ z_carry_peg | d=6mm over=False: reach fail @ z_carry_peg | d=6mm over=True: reach fail @ z_carry_peg
+20261112-183152-6581,1,yellow,triangle,1,0,0.0,0.0,no grasp height is both reachable and collision-free for peg at r=0.205 / socket at r=0.200 — d_max=20mm d_board=73mm | d=4mm over=False: reach fail @ z_carry_peg | d=4mm over=True: reach fail @ z_carry_peg | d=6mm over=False: reach fail @ z_carry_peg | d=6mm over=True: reach fail @ z_carry_peg
+20261112-183359-291c,1,yellow,triangle,1,0,0.0,0.0,no grasp height is both reachable and collision-free for peg at r=0.203 / socket at r=0.201 — d_max=20mm d_board=73mm | d=4mm over=False: reach fail @ z_carry_peg | d=4mm over=True: reach fail @ z_carry_peg | d=6mm over=False: reach fail @ z_carry_peg | d=6mm over=True: reach fail @ z_carry_peg
+20261112-183515-f00b,1,yellow,triangle,1,0,0.0,0.0,no grasp height is both reachable and collision-free for peg at r=0.203 / socket at r=0.201 — d_max=20mm d_board=73mm | d=4mm over=False: reach fail @ z_carry_peg | d=4mm over=True: reach fail @ z_carry_peg | d=6mm over=False: reach fail @ z_carry_peg | d=6mm over=True: reach fail @ z_carry_peg
+20261112-183656-84c4,1,yellow,triangle,1,0,0.0,0.0,no grasp height is both reachable and collision-free for peg at r=0.194 / socket at r=0.203 — d_max=20mm d_board=73mm | d=4mm over=False: reach fail @ z_carry_peg | d=4mm over=True: reach fail @ z_carry_peg | d=6mm over=False: reach fail @ z_carry_peg | d=6mm over=True: reach fail @ z_carry_sock
+20261112-183744-45ef,1,yellow,triangle,1,0,0.0,0.0,no grasp height is both reachable and collision-free for peg at r=0.202 / socket at r=0.204 — d_max=20mm d_board=73mm | d=4mm over=False: reach fail @ z_carry_peg | d=4mm over=True: reach fail @ z_carry_peg | d=6mm over=False: reach fail @ z_carry_peg | d=6mm over=True: reach fail @ z_carry_peg
+20261112-190140-cf4d,1,blue,square,1,1,20.03,-17.0,dxy=13mm dz=-3mm
+20261112-190251-c83c,1,orange,hexagon,2,0,15.23,-9.1,no grasp height is both reachable and collision-free for peg at r=0.284 / socket at r=0.158 — d_max=20mm d_board=73mm | d=4mm over=False: reach fail @ z_grasp | d=4mm over=True: reach fail @ z_grasp | d=6mm over=False: reach fail @ z_grasp | d=6mm over=True: reach fail @ z_grasp
+20261112-190408-2558,1,blue,square,1,0,0.0,0.0,no grasp height is both reachable and collision-free for peg at r=0.263 / socket at r=0.169 — d_max=20mm d_board=73mm | d=4mm over=False: reach fail @ z_grasp | d=4mm over=True: reach fail @ z_grasp | d=6mm over=False: reach fail @ z_grasp | d=6mm over=True: reach fail @ z_grasp
+20261112-192107-322e,1,yellow,triangle,1,0,0.0,0.0,no grasp height is both reachable and collision-free for peg at r=0.120 / socket at r=0.204 — d_max=20mm d_board=73mm | d=4mm over=False: reach fail @ z_carry_sock | d=4mm over=True: reach fail @ z_carry_sock | d=6mm over=False: reach fail @ z_carry_sock | d=6mm over=True: reach fail @ z_carry_sock
+20261112-192200-8e08,1,yellow,triangle,1,0,0.0,0.0,no grasp height is both reachable and collision-free for peg at r=0.122 / socket at r=0.204 — d_max=20mm d_board=73mm | d=4mm over=False: reach fail @ z_carry_sock | d=4mm over=True: reach fail @ z_carry_sock | d=6mm over=False: reach fail @ z_carry_sock | d=6mm over=True: reach fail @ z_carry_sock
+20261112-192958-10a5,1,yellow,triangle,1,0,0.0,0.0,no grasp height is both reachable and collision-free for peg at r=0.125 / socket at r=0.202 — d_max=20mm d_board=73mm | d=4mm over=False: reach fail @ z_carry_sock | d=4mm over=True: reach fail @ z_carry_sock | d=6mm over=False: reach fail @ z_carry_sock | d=6mm over=True: reach fail @ z_carry_sock
+20261112-193232-fe5f,1,yellow,triangle,1,0,0.0,0.0,no grasp height is both reachable and collision-free for peg at r=0.126 / socket at r=0.205 — d_max=20mm d_board=73mm | d=4mm over=False: reach fail @ z_carry_sock | d=4mm over=True: reach fail @ z_carry_sock | d=6mm over=False: reach fail @ z_carry_sock | d=6mm over=True: reach fail @ z_carry_sock
+20261112-193306-9ffa,1,yellow,triangle,1,0,0.0,0.0,no grasp height is both reachable and collision-free for peg at r=0.152 / socket at r=0.205 — d_max=20mm d_board=73mm | d=4mm over=False: reach fail @ z_carry_sock | d=4mm over=True: reach fail @ z_carry_sock | d=6mm over=False: reach fail @ z_carry_sock | d=6mm over=True: reach fail @ z_carry_sock
+20261112-193306-9ffa,1,yellow,triangle,1,0,0.0,0.0,no grasp height is both reachable and collision-free for peg at r=0.103 / socket at r=0.205 — d_max=20mm d_board=73mm | d=4mm over=False: reach fail @ z_carry_sock | d=4mm over=True: reach fail @ z_carry_sock | d=6mm over=False: reach fail @ z_carry_sock | d=6mm over=True: reach fail @ z_carry_sock
+20261112-193404-bceb,1,yellow,triangle,1,0,0.0,0.0,no grasp height is both reachable and collision-free for peg at r=0.140 / socket at r=0.202 — d_max=20mm d_board=73mm | d=4mm over=False: reach fail @ z_carry_sock | d=4mm over=True: reach fail @ z_carry_sock | d=6mm over=False: reach fail @ z_carry_sock | d=6mm over=True: reach fail @ z_carry_sock
+20261112-193455-6feb,1,yellow,triangle,1,0,0.0,0.0,no grasp height is both reachable and collision-free for peg at r=0.103 / socket at r=0.202 — d_max=20mm d_board=73mm | d=4mm over=False: reach fail @ z_carry_sock | d=4mm over=True: reach fail @ z_carry_sock | d=6mm over=False: reach fail @ z_carry_sock | d=6mm over=True: reach fail @ z_carry_sock
+20261112-193540-cddf,1,yellow,triangle,1,0,0.0,0.0,no grasp height is both reachable and collision-free for peg at r=0.099 / socket at r=0.203 — d_max=20mm d_board=73mm | d=4mm over=False: reach fail @ z_carry_sock | d=4mm over=True: reach fail @ z_carry_sock | d=6mm over=False: reach fail @ z_carry_sock | d=6mm over=True: reach fail @ z_carry_sock
+20261112-193735-795d,1,yellow,triangle,1,0,0.0,0.0,no grasp height is both reachable and collision-free for peg at r=0.099 / socket at r=0.203 — d_max=20mm d_board=73mm | d=4mm over=False: reach fail @ z_carry_sock | d=4mm over=True: reach fail @ z_carry_sock | d=6mm over=False: reach fail @ z_carry_sock | d=6mm over=True: reach fail @ z_carry_sock
+20261112-193811-05a7,1,yellow,triangle,1,0,0.0,0.0,no grasp height is both reachable and collision-free for peg at r=0.099 / socket at r=0.197 — d_max=20mm d_board=73mm | d=4mm over=False: reach fail @ z_carry_sock | d=4mm over=True: reach fail @ z_carry_sock | d=6mm over=False: reach fail @ z_carry_sock | d=6mm over=True: reach fail @ z_carry_sock
+20261112-193937-b31d,1,yellow,triangle,1,0,0.0,0.0,no grasp height is both reachable and collision-free for peg at r=0.128 / socket at r=0.191 — d_max=20mm d_board=73mm | d=4mm over=False: reach fail @ z_carry_sock | d=4mm over=True: reach fail @ z_hover | d=6mm over=False: reach fail @ z_carry_sock | d=6mm over=True: reach fail @ z_hover
+20261112-194010-5283,1,,,2,0,20.97,-9.7,peg lost
+20261112-194102-c538,1,green,circle,1,0,0.0,0.0,"circle xy-adjust: (0.162,0.116,0.110) unreachable: joint4=2.04 rad outside [-1.8, 2.0]"
+20261112-194102-c538,1,blue,square,1,1,20.8,-18.3,dxy=15mm dz=-5mm
+20261112-194102-c538,2,orange,hexagon,2,1,30.64,7.9,dxy=12mm dz=7mm
+20261112-194102-c538,3,green,circle,1,0,0.0,0.0,"circle xy-adjust: (0.162,0.116,0.110) unreachable: joint4=2.04 rad outside [-1.8, 2.0]"
+20261112-194102-c538,3,green,circle,1,0,0.0,0.0,"circle xy-adjust: (0.162,0.116,0.110) unreachable: joint4=2.04 rad outside [-1.8, 2.0]"
+20261112-195848-d058,1,green,circle,1,0,0.0,0.0,"circle xy-adjust: (0.170,0.109,0.108) unreachable: joint4=2.04 rad outside [-1.8, 2.0]"
+20261112-200014-b2bc,1,green,circle,1,1,19.43,0.0,dxy=14mm dz=-8mm
+20261112-200014-b2bc,2,orange,hexagon,1,0,0.0,0.0,"retreat: finger_L hits placed green at (0.138,0.038,0.120)"
+20261112-200014-b2bc,2,orange,hexagon,1,0,0.0,0.0,"retreat: finger_L hits placed green at (0.138,0.038,0.120)"
+20261112-200014-b2bc,2,orange,hexagon,1,0,0.01,0.0,"retreat: finger_L hits placed green at (0.138,0.038,0.120)"
+20261112-200014-b2bc,2,orange,hexagon,1,0,0.0,0.0,"retreat: finger_L hits placed green at (0.138,0.038,0.120)"
+20261112-200246-c75b,1,orange,hexagon,2,0,31.42,6.9,dxy=125mm dz=5mm
+20261112-200246-c75b,1,orange,hexagon,2,0,33.01,6.9,dxy=124mm dz=5mm
+20261112-201045-929d,1,orange,hexagon,2,0,17.82,10.7,no grasp height is both reachable and collision-free for peg at r=0.374 / socket at r=0.127 — d_max=20mm d_board=73mm | d=4mm over=False: reach fail @ z_grasp | d=4mm over=True: reach fail @ z_grasp | d=6mm over=False: reach fail @ z_grasp | d=6mm over=True: reach fail @ z_grasp
+20261112-201956-2bf5,1,blue,square,1,0,0.0,0.0,"rise: (0.056,-0.017,0.120) unreachable: joint4=2.04 rad outside [-1.8, 2.0]"
+20261112-202230-c682,1,blue,square,2,1,30.99,-23.3,dxy=6mm dz=-5mm
+20261112-202646-b800,1,blue,square,1,0,0.0,0.0,"rise: (0.062,-0.015,0.120) unreachable: joint4=2.02 rad outside [-1.8, 2.0]"
+20261112-202646-b800,1,blue,square,1,0,0.0,0.0,"rise: (0.062,-0.015,0.120) unreachable: joint4=2.02 rad outside [-1.8, 2.0]"
+20261112-204316-af59,1,blue,square,2,0,32.25,-24.2,dxy=77mm dz=-2mm
+20261112-204835-0b03,1,blue,square,1,1,15.99,-23.2,dxy=12mm dz=-5mm
+20261113-011243-309f,1,orange,hexagon,1,0,0.01,0.0,no grasp height is both reachable and collision-free for peg at r=0.334 / socket at r=0.158 — d_max=20mm d_board=73mm | d=4mm over=False: reach fail @ z_grasp | d=4mm over=True: reach fail @ z_grasp | d=6mm over=False: reach fail @ z_grasp | d=6mm over=True: reach fail @ z_grasp
+20261113-012057-1641,1,orange,hexagon,1,0,0.0,0.0,no grasp height is both reachable and collision-free for peg at r=0.323 / socket at r=0.156 — d_max=20mm d_board=73mm | d=4mm over=False: reach fail @ z_grasp | d=4mm over=True: reach fail @ z_grasp | d=6mm over=False: reach fail @ z_grasp | d=6mm over=True: reach fail @ z_grasp
+20261113-014312-254c,1,green,circle,1,1,18.82,0.0,dxy=4mm dz=-8mm
+20261113-014312-254c,2,orange,hexagon,1,1,15.59,6.6,dxy=10mm dz=-8mm
+20261113-014312-254c,3,blue,square,1,0,0.0,0.0,no grasp height is both reachable and collision-free for peg at r=0.248 / socket at r=0.126 — d_max=20mm d_board=73mm | d=4mm over=False: reach fail @ z_grasp | d=4mm over=True: reach fail @ z_grasp | d=6mm over=False: reach fail @ z_grasp | d=6mm over=True: reach fail @ z_grasp
+20261113-014312-254c,3,blue,square,1,0,0.01,0.0,no grasp height is both reachable and collision-free for peg at r=0.251 / socket at r=0.126 — d_max=20mm d_board=73mm | d=4mm over=False: reach fail @ z_grasp | d=4mm over=True: reach fail @ z_grasp | d=6mm over=False: reach fail @ z_grasp | d=6mm over=True: reach fail @ z_grasp
+20261113-014312-254c,3,blue,square,1,0,0.0,0.0,no grasp height is both reachable and collision-free for peg at r=0.233 / socket at r=0.126 — d_max=20mm d_board=73mm | d=4mm over=False: reach fail @ z_grasp | d=4mm over=True: reach fail @ z_grasp | d=6mm over=False: reach fail @ z_grasp | d=6mm over=True: reach fail @ z_grasp
+20261113-014312-254c,3,blue,square,1,0,0.01,0.0,no grasp height is both reachable and collision-free for peg at r=0.248 / socket at r=0.126 — d_max=20mm d_board=73mm | d=4mm over=False: reach fail @ z_grasp | d=4mm over=True: reach fail @ z_grasp | d=6mm over=False: reach fail @ z_grasp | d=6mm over=True: reach fail @ z_grasp
+20261113-014312-254c,3,blue,square,1,0,0.0,0.0,no grasp height is both reachable and collision-free for peg at r=0.088 / socket at r=0.126 — d_max=20mm d_board=73mm | d=4mm over=False: collision @ z=0.094: finger_L hits placed orange | d=4mm over=True: reach fail @ z_carry_peg | d=6mm over=False: collision @ z=0.092: finger_L hits placed orange | d=6mm over=True: reach fail @ z_carry_peg
+20261113-014312-254c,3,blue,square,1,0,0.0,0.0,"transit: no collision-free path at z=0.113 (pegs too close together, or raise the robot — see task.yaml)"
+20261113-014312-254c,3,blue,square,2,0,18.8,-26.9,no grasp height is both reachable and collision-free for peg at r=0.116 / socket at r=0.126 — d_max=20mm d_board=73mm | d=4mm over=False: collision @ z=0.094: finger_L hits placed orange | d=4mm over=True: reach fail @ z_carry_peg | d=6mm over=False: collision @ z=0.092: finger_L hits placed orange | d=6mm over=True: reach fail @ z_carry_peg
+20261113-015220-34c7,1,green,circle,1,1,18.6,0.0,dxy=3mm dz=-8mm
+20261113-015220-34c7,2,orange,hexagon,1,1,17.0,7.7,dxy=7mm dz=-8mm
+20261113-015220-34c7,3,blue,square,2,0,30.4,-32.6,peg not visible
+20261113-015220-34c7,3,yellow,triangle,2,0,37.77,36.5,peg not visible
+20261113-020808-e5df,1,blue,square,2,0,32.62,-28.3,dxy=25mm dz=10mm
+20261113-021444-bc96,1,blue,square,2,0,32.77,-25.1,dxy=34mm dz=13mm
+20261113-023538-397b,1,green,circle,1,1,19.63,0.0,dxy=7mm dz=-3mm
+20261113-023538-397b,2,orange,hexagon,1,1,16.8,10.2,dxy=10mm dz=-3mm
+20261113-023538-397b,3,blue,square,1,0,0.01,0.0,"square xy-adjust: finger_L hits placed orange at (0.126,-0.016,0.110)"
+20261113-023538-397b,3,blue,square,1,0,0.02,0.0,"square xy-adjust: finger_L hits placed orange at (0.126,-0.016,0.110)"
+20261113-023538-397b,3,blue,square,1,0,0.01,0.0,"transit: no collision-free path at z=0.113 (pegs too close together, or raise the robot — see task.yaml)"
+20261113-023538-397b,3,blue,square,1,0,0.02,0.0,"square xy-adjust: finger_L hits placed orange at (0.126,-0.016,0.110)"
+20261113-024036-61a8,1,green,circle,1,1,19.0,0.0,dxy=5mm dz=-3mm
+20261113-024036-61a8,2,orange,hexagon,1,1,16.61,16.5,dxy=11mm dz=-3mm
+20261113-024036-61a8,3,blue,square,1,0,0.01,0.0,"square xy-adjust: finger_L hits placed orange at (0.128,-0.019,0.110)"
+20261113-024036-61a8,3,blue,square,1,0,0.01,0.0,"square xy-adjust: finger_L hits placed orange at (0.128,-0.019,0.110)"
+20261113-024202-ba3e,1,blue,square,2,0,33.01,-28.4,dxy=24mm dz=12mm
+20261113-024431-565a,1,green,circle,1,1,19.38,0.0,dxy=11mm dz=-3mm
+20261113-024431-565a,2,orange,hexagon,1,1,16.83,10.2,dxy=5mm dz=-3mm
+20261113-024431-565a,3,blue,square,1,0,0.01,0.0,"square xy-adjust: finger_L hits placed orange at (0.129,-0.018,0.110)"
+20261113-024539-6dd8,1,blue,square,2,0,32.99,-27.9,dxy=24mm dz=14mm
