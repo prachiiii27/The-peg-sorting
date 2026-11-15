@@ -9,7 +9,7 @@ Both **keyboard teleoperation** and **full autonomy** are supported.
 
 ## 🎥 Demonstration video
 
-**▶ [Watch the demonstration video]([(https://youtu.be/XiwHk8Va8t8)])**
+**▶ [Watch the demonstration video]([https://youtu.be/XiwHk8Va8t8])**
 
 <!-- Replace VIDEO_LINK_HERE above with the YouTube / Google Drive link (set sharing to "Anyone with the link"). -->
 
