@@ -127,7 +127,7 @@ Helper scripts (`scripts/`):
 
 ## 4. Camera calibration
 
-The task sheet asks for two RGB-D cameras; our final setup uses **one RealSense (`cam1`)**, which sees the
+Our final setup uses **one RealSense (`cam1`)**, which sees the
 whole workspace. `cameras.launch.py` starts only `cam1` (`single:=true` by default). The `cam2` entry in
 `config/camera_calib.yaml` is an unused placeholder (no frames arrive, so it is ignored). A second camera can
 be added by launching with `single:=false serial2:=_<SN>` and calibrating it the same way.
