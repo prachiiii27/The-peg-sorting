@@ -1,4 +1,4 @@
-# Tri-Wizard Trial 1 — The Peg Sorting
+# Tri-Wizard Task 1 — The Peg Sorting
 
 **ME 639 Introduction to Robotics** · ROBOTIS OpenMANIPULATOR-X · Intel RealSense RGB-D · ROS 2 Humble
 
